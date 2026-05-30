@@ -44,15 +44,15 @@ export const About: React.FC = () => {
                         <div className="timeline-item">
                             <div className="timeline-marker"></div>
                             <div className="timeline-content">
-                                <span className="timeline-date">2025 - Present</span>
-                                <h4>Software Developer Intern</h4>
+                                <span className="timeline-date">2026 - Present</span>
+                                <h4>Software Developer</h4>
                                 <p>Assisted in migrating Express routing architectures and creating database migration scripts. Built custom admin dashboards in React.</p>
                             </div>
                         </div>
                         <div className="timeline-item">
                             <div className="timeline-marker"></div>
                             <div className="timeline-content">
-                                <span className="timeline-date">2024</span>
+                                <span className="timeline-date">2024 - 2025</span>
                                 <h4>Open Source Contributor</h4>
                                 <p>Contributed bug fixes and README clarifications to open-source UI libraries. Set up continuous integration workflows.</p>
                             </div>

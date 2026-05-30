@@ -10,7 +10,7 @@ export const Hero: React.FC = () => {
                     <span className="status-text">Available for Internships &amp; Junior Roles</span>
                 </div>
                 <h1 className="hero-title">
-                    Designing interfaces. <br />
+                    Hi, I am Meng. <br />
                     <span className="gradient-text">Visualizing algorithms.</span>
                 </h1>
                 <p className="hero-subtitle">
@@ -49,7 +49,7 @@ export const Hero: React.FC = () => {
                     <div className="code-line"></div>
                     <div className="code-line"><span className="c-keyword">const</span> <span className="c-var">student</span>: <span className="c-key">Developer</span> = &#123;</div>
                     <div className="code-line indent-1"><span className="c-var">name</span>: <span className="c-str">"CS Diploma Student"</span>,</div>
-                    <div className="code-line indent-1"><span className="c-var">skills</span>: [<span className="c-str">"Java"</span>, <span className="c-str">"Python"</span>, <span className="c-str">"React"</span>, <span className="c-str">"SQL"</span>],</div>
+                    <div className="code-line indent-1"><span className="c-var">skills</span>: [<span className="c-str">"Java"</span>, <span className="c-str">"Python"</span>, <span className="c-str">"C++"</span>, <span className="c-str">"SQL"</span>],</div>
                     <div className="code-line indent-1"><span className="c-var">focus</span>: <span className="c-str">"Building responsive web apps"</span></div>
                     <div className="code-line">&#125;;</div>
                     <div className="code-line output">&gt; Ready to build and collaborate</div>
