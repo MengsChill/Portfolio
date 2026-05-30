@@ -2,9 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { About } from './components/About';
-import { Projects } from './components/Projects';
-import { AlgoVisualizer } from './components/AlgoVisualizer';
-import { Skills } from './components/Skills';
 import { Contact } from './components/Contact';
 
 const App: React.FC = () => {
@@ -28,9 +25,6 @@ const App: React.FC = () => {
             <main className="content-wrapper">
                 <Hero />
                 <About />
-                <Projects />
-                <AlgoVisualizer />
-                <Skills />
                 <Contact />
 
                 {/* Footer Section */}
@@ -43,4 +37,5 @@ const App: React.FC = () => {
 };
 
 export default App;
+
 
