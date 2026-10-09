@@ -6,7 +6,7 @@ Welcome to the repository for my personal portfolio website! This site is design
 
 ---
 
-## ✨ Features
+##  Features
 
 *   **About Me:** A brief introduction to who I am and my career goals.
 *   **Projects Showcase:** A curated list of my best software development projects with links to source code and live demos.
@@ -15,7 +15,7 @@ Welcome to the repository for my personal portfolio website! This site is design
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 *   **Frontend:** HTML5, CSS3, JavaScript (or specify if you used React, Tailwind CSS, etc.)
 *   **Hosting:** GitHub Pages / Vercel / Netlify (Choose whichever you used)
