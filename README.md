@@ -1,8 +1,8 @@
-# My Personal Portfolio Website 🚀
+# My Personal Portfolio Website 
 
 Welcome to the repository for my personal portfolio website! This site is designed to showcase my projects, skills, education, and experience as a Computer Science student / Software Engineer.
 
-🔗 **Live Website:** [Insert Link to Your Live Website Here](https://your-website.com)
+ **Live Website:** [Insert Link to Your Live Website Here](https://your-website.com)
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to the repository for my personal portfolio website! This site is design
 
 ---
 
-## 🚀 Getting Started (Local Setup)
+##  Getting Started (Local Setup)
 
 If you want to clone this repository and run the website locally on your machine, follow these steps:
 
